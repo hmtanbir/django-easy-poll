@@ -1,5 +1,7 @@
 # Django Easy Poll
 
+|Build Status| |Version| |Python| |Size| |Codecov|
+
 Installation
 ------------
 
