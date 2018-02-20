@@ -13,7 +13,7 @@ setup(
     download_url='https://github.com/hmtanbir/django-easy-poll/archive/master.zip',
     packages=find_packages(),
     classifiers=[
-        'Development Status :: 1 - alpha',
+        'Development Status :: 4 - Beta',
         'Environment :: Web Environment',
         'Intended Audience :: Developers',
         'License :: OSI Approved :: MIT License',
