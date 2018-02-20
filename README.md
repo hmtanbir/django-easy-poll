@@ -41,7 +41,8 @@ Usage
 
 4. Go to site's admin area and create a new poll:
 
-![screenshot from 2018-02-20 09-03-04](https://user-images.githubusercontent.com/14236200/36405922-851ae0a8-161d-11e8-8151-cda995757b53.png)
+![screenshot from 2018-02-20 09-01-26](https://user-images.githubusercontent.com/14236200/36405904-5cac302c-161d-11e8-8217-4a0919edf7f3.png)
+
 5. Add this tags in your template file to show the poll:
 
     ```
@@ -58,7 +59,7 @@ Usage
 
 7. Make vote:
 
-![screenshot from 2018-02-20 09-01-26](https://user-images.githubusercontent.com/14236200/36405904-5cac302c-161d-11e8-8217-4a0919edf7f3.png)
+![screenshot from 2018-02-20 09-03-04](https://user-images.githubusercontent.com/14236200/36405922-851ae0a8-161d-11e8-8151-cda995757b53.png)
 
 8. See the results:
 
