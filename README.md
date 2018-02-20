@@ -1,4 +1,4 @@
-Django Easy Poll
+#Django Easy Poll
 
 Installation
 ------------
@@ -9,7 +9,7 @@ sudo pip install django-easy-poll
 
 Install latest from github:
 ```
-pip install -e git+https://github.com/hmtanbir/django-easy-poll.git#egg=django-easy-poll
+sudo pip install -e git+https://github.com/hmtanbir/django-easy-poll.git#egg=django-easy-poll
 ```
 
 Requirements
