@@ -10,7 +10,7 @@ setup(
     author='Hasan Mohammad Tanbir',
     author_email='tanbir2025@gmail.com',
     url='https://github.com/hmtanbir/django-easy-poll',
-    download_url='https://github.com/hmtanbir/django-easy-poll/archive/v0.0.1.tar.gz',
+    download_url='https://github.com/hmtanbir/django-easy-poll/archive/master.zip',
     packages=find_packages(),
     classifiers=[
         'Development Status :: 1 - alpha',
