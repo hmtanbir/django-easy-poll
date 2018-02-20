@@ -67,7 +67,7 @@ Usage
 Customization
 -------------
 
-Of course, you can (and probably, should) customize Simple Poll's templates. You can simply do this by overriding `base.html`, `poll.html` and `result.html` in `templates/poll` directory.
+Of course, you can (and probably, should) customize Easy Poll's templates. You can easily do this by overriding `base.html`, `poll.html` and `result.html` in `templates/poll` directory.
 
 
 
