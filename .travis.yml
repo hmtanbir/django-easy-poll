@@ -5,8 +5,4 @@ python:
     - "3.4"
     - "3.5"
     - "3.6"
-install:
-  - pip install codecov
-
-after_success:
-  - codecov	
+	
