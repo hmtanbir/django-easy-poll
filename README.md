@@ -1,4 +1,4 @@
-#Django Easy Poll
+# Django Easy Poll
 
 Installation
 ------------
