@@ -6,7 +6,7 @@ Installation
 ------------
 
 ```
-sudo pip install django-easy-poll
+pip install django-easy-poll
 ```
 
 Install latest from github:
